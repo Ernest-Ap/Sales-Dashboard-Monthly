@@ -43,5 +43,10 @@ Charts Used: Table Chart X2 , Bar Chart, Double Area Chart and Donut Chart.
 <li>Top Customers. 
 
 ## In September 15,319 phones were sold reasons for this could be that new phones got released that month and students also start their classes that month. Sales by Segment just over half of the sales come from normal consumers 50.56% 1,161,401. The 22nd of October had the highest amount of sales 15,159. 
+  
+[Live Link](https://public.tableau.com/views/SalesDashboardMonthly_16799558340840/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+  
+  
+  
 
 
