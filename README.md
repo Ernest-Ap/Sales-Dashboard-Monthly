@@ -1,7 +1,7 @@
 # Sales-Dashboard-Monthly
 ## US Superstore
 ### Tableau dynamic dashboard 
-<img src="img/sdm1.png" width="800"> <img src="img/sdm2.png" width="800"> 
+<img src="img/.png" width="800"> <img src="img/.png" width="800"> 
 
 ### Sales monthly dashboard about product comparison and daily trends  US Superstore data from the months of September and October 2017. Also, overall sales KPIs, sales by segment and top customers, using Tableau for the visualization.
 
